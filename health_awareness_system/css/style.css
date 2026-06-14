@@ -1,0 +1,146 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f6f9;
+}
+
+header{
+    background-color: #0077cc;
+    color: white;
+    padding: 20px;
+}
+
+header h1{
+    margin: 0;
+}
+
+nav{
+    margin-top: 10px;
+}
+
+nav a{
+    color: white;
+    text-decoration: none;
+    margin-right: 20px;
+    font-weight: bold;
+}
+
+nav a:hover{
+    text-decoration: underline;
+}
+
+.container{
+    width: 90%;
+    margin: 20px auto;
+}
+
+h1,h2,h3{
+    color: #333;
+}
+
+form{
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+input[type=text],
+input[type=email],
+input[type=password],
+textarea{
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button{
+    background-color: #0077cc;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: #005fa3;
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+    background: white;
+}
+
+table th,
+table td{
+    border: 1px solid #ddd;
+    padding: 12px;
+}
+
+table th{
+    background-color: #0077cc;
+    color: white;
+}
+
+.card{
+    background: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 2px 8px rgba(0,0,0,0.1);
+}
+
+footer{
+    background-color: #0077cc;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    margin-top: 30px;
+}
+
+input[type=text]{
+    width: 70%;
+    display: inline-block;
+}
+
+form button{
+    margin-left: 10px;
+}
+
+.dashboard-link{
+    display:block;
+    background:white;
+    padding:15px;
+    margin-bottom:15px;
+    border-radius:8px;
+    text-decoration:none;
+    color:#333;
+    font-weight:bold;
+    box-shadow:0 2px 5px rgba(0,0,0,0.1);
+}
+
+
+nav a{
+    transition: 0.3s;
+}
+
+nav a:hover{
+    color: #ffd700;
+}
+.dashboard-link{
+    display:block !important;
+    background:white !important;
+    padding:15px !important;
+    margin-bottom:15px !important;
+    border-radius:8px !important;
+    text-decoration:none !important;
+    color:#333 !important;
+    font-weight:bold !important;
+    box-shadow:0 2px 5px rgba(0,0,0,0.1) !important;
+}
