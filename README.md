@@ -41,3 +41,12 @@ This project supports Sustainable Development Goal 3 (Good Health and Well-Being
 License
 
 This project is licensed under the MIT License.
+
+
+Group Name: group 1 (Bict 2201 SEM 6)
+Members:
+Aaron Romeo Conteh 905004560
+François camera 905004789
+Shammah E Turay 905004567
+Mary Susan Bangura 905004581
+Khadija barrie 905004570
